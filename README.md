@@ -16,7 +16,7 @@ In the command pallette (Ctrl-Shift+P on Windows) type 'Add Repository' then pre
 
 With a blank HTML file open, type
 
-    html
+    htmlboiler
 
 and press `TAB`.
 
